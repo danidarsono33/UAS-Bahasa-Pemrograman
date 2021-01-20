@@ -37,8 +37,8 @@ Untuk membuat Package Modul kita buka aplikasi PyCharm :
 
 
 Tampilan Package folder Model dan View yang terdapat file_init_.py
-! 5
 
+![5_New_File](https://user-images.githubusercontent.com/73014427/105150371-47270300-5b37-11eb-9b07-2688faa0abd2.png)
 
 Kemudian kita buat nama program Python dengan Klik Folder Model > pilih New >Python File dengan nama : daftar_nilai.py
 
