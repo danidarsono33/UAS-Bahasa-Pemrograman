@@ -18,27 +18,34 @@ UNIVERSITAS PELITA BANGSA
 # SOAL UJIAN AKHIR SEMESTER (UAS)
 
 Buat package dan modul dengan struktur
-14_UAS_package dan modul daftar nilai
+
+![1_Soal UAS](https://user-images.githubusercontent.com/73014427/105147892-59537200-5b34-11eb-9bcc-65ea97ae6152.png)
 
 Untuk membuat Package Modul kita buka aplikasi PyCharm :
-14_UAS_package dan modul daftar nilai
+
+![2_New_File](https://user-images.githubusercontent.com/73014427/105147896-5b1d3580-5b34-11eb-9f5a-ec0f4b970fac.png)
 
  Pilih New Project Lalu simpan project sesuai Location Directory dan beri nama folder :
-14_UAS_package dan modul daftar nilai
+ 
+![3_New_File](https://user-images.githubusercontent.com/73014427/105147898-5bb5cc00-5b34-11eb-9b7e-7993b67db245.png)
 
  Kemudian Pilih New > Python Package :
 
  " -> Kita buat Nama Model dan View "
-14_UAS_package dan modul daftar nilai
+
+![4_New_File](https://user-images.githubusercontent.com/73014427/105147901-5bb5cc00-5b34-11eb-8b5c-e76d9e108dd7.png)
 
 Tampilan Package folder Model dan View yang terdapat file_init_.py
-14_UAS_package dan modul daftar nilai
+![5_New_File](https://user-images.githubusercontent.com/73014427/105147902-5c4e6280-5b34-11eb-8521-68a7288e494e.png)
 
 Kemudian kita buat nama program Python dengan Klik Folder Model > pilih New >Python File dengan nama : daftar_nilai.py
-14_UAS_package dan modul daftar nilai
+
+![6_New_File](https://user-images.githubusercontent.com/73014427/105147905-5ce6f900-5b34-11eb-9707-4a2ea4617548.png)
 
 Lalu kita buat nama program Python dengan Klik Folder view > pilih New >Python File dengan nama : input_nilai.py dan view_nilai.py
-14_UAS_package dan modul daftar nilai
+
+![7_New_File](https://user-images.githubusercontent.com/73014427/105147907-5d7f8f80-5b34-11eb-8cb9-2078a584715a.png)
+
 
 Dan kita buat nama program Python dengan Klik di luar Folder > pilih New >Python File dengan nama : main.py
 14_UAS_package dan modul daftar nilai
