@@ -35,8 +35,10 @@ Untuk membuat Package Modul kita buka aplikasi PyCharm :
 
 ![4_New_File](https://user-images.githubusercontent.com/73014427/105147901-5bb5cc00-5b34-11eb-8b5c-e76d9e108dd7.png)
 
+
 Tampilan Package folder Model dan View yang terdapat file_init_.py
-![5_New_File](https://user-images.githubusercontent.com/73014427/105147902-5c4e6280-5b34-11eb-8521-68a7288e494e.png)
+! 5
+
 
 Kemudian kita buat nama program Python dengan Klik Folder Model > pilih New >Python File dengan nama : daftar_nilai.py
 
@@ -48,13 +50,17 @@ Lalu kita buat nama program Python dengan Klik Folder view > pilih New >Python F
 
 
 Dan kita buat nama program Python dengan Klik di luar Folder > pilih New >Python File dengan nama : main.py
-14_UAS_package dan modul daftar nilai
+
+![8_New_File](https://user-images.githubusercontent.com/73014427/105148297-cff06f80-5b34-11eb-9a3d-c761684fb783.png)
+
+
 
 Nama program python sudah kita buat :
 Buat syntax program python
 Membuat code program : daftar_nilai.py
 
-14_UAS_package dan modul daftar nilai 14_UAS_package dan modul daftar nilai
+![9_Daftar_Nilai](https://user-images.githubusercontent.com/73014427/105148298-d1219c80-5b34-11eb-971b-27616f38c59b.png)
+![10_Daftar_Nilai](https://user-images.githubusercontent.com/73014427/105148304-d1ba3300-5b34-11eb-839a-c506dc29a3be.png)
 
 Penjelasan :
 
@@ -77,7 +83,8 @@ Penjelasan:
 Fungsinya sama dengan Def tambahkan
 Membuat code program input_nilai.py
 
-14_UAS_package dan modul daftar nilai
+![11_Input_Nilai](https://user-images.githubusercontent.com/73014427/105148308-d252c980-5b34-11eb-86a3-41261574e587.png)
+
 
 Penjelasan:
 
@@ -94,7 +101,8 @@ Disini kita buat inputan karena tadi kita sudah membuat kata - kata outputnya ka
 Jangan lupa gunakan perkalian untuk menghitung hasil total atau rata- ratanya
 Membuat code program view_nilai.py
 
-14_UAS_package dan modul daftar nilai 14_UAS_package dan modul daftar nilai
+![12_View_Nilai](https://user-images.githubusercontent.com/73014427/105148312-d383f680-5b34-11eb-9cf4-9539411fba15.png)
+![13_view_2](https://user-images.githubusercontent.com/73014427/105148315-d41c8d00-5b34-11eb-99c1-b5b9b360c79d.png)
 
 Penjelasan:
 
@@ -118,7 +126,8 @@ Kita akan langsung membuat inputan dengan format nama untuk mencari data dari ma
 (Else)Jika data mahasiswa yang dicari tidak ada didalam dictionary maka akan muncul tulisan "datanya tidak ada"
 Membuat code program : main.py
 
-14_UAS_package dan modul daftar nilai
+![14_Input_Nilai](https://user-images.githubusercontent.com/73014427/105148318-d41c8d00-5b34-11eb-8d34-955b1dcd23a7.png)
+
 
 From dan import
 Penjelasan:
@@ -142,29 +151,31 @@ Untuk menjalankan program kita klik : Run > main.py
 
  Pilih Menu Nomor : 1. Tambah
 
-14_UAS_package dan modul daftar nilai
+
+![16_Output_1](https://user-images.githubusercontent.com/73014427/105148324-d5e65080-5b34-11eb-9545-9c61b5b2bd24.png)
 
  Pilih Menu Nomor : 2. Tampil
-14_UAS_package dan modul daftar nilai
+![17_Output_2](https://user-images.githubusercontent.com/73014427/105148329-d67ee700-5b34-11eb-9256-7432bf681430.png)
 
- 
 
  Pilih Menu Nomor : 3. Hapus
-14_UAS_package dan modul daftar nilai
-
+![18_Output_3](https://user-images.githubusercontent.com/73014427/105148335-d7177d80-5b34-11eb-8640-d130fb711d84.png)
 
 
  Pilih Menu Nomor : 4. Ubah
-14_UAS_package dan modul daftar nilai
+
+![19_Output_4](https://user-images.githubusercontent.com/73014427/105148337-d7177d80-5b34-11eb-9c92-e02f3012a3d5.png)
 
 
  Pilih Menu Nomor : 5. Cari
 Kemudian ketik Nama Mahasiswa
 
-14_UAS_package dan modul daftar nilai
+![20_Output_5](https://user-images.githubusercontent.com/73014427/105148338-d7b01400-5b34-11eb-954a-a01a545f1952.png)
 
  Pilih Menu Nomor : 6. Keluar dari program
-14_UAS_package dan modul daftar nilai
+ 
+![21_Output_6](https://user-images.githubusercontent.com/73014427/105148339-d848aa80-5b34-11eb-95e0-75a69721c1e5.png)
+
 
 Untuk Melihat syntax - syntax program python yang sudah kita buat silahkan tekan Click Here:
 Package modul(daftar_nilai) Click Here
